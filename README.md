@@ -4,7 +4,7 @@
 
 ## What I used
   *  HTML
-  *  CSS (mostly Flexbox)
+  *  CSS 
 
 ## What I learned
   * HTML
@@ -13,7 +13,7 @@
     -  Headings
     -  Lists
     -  How to add images and links
-  *  CSS
+  * CSS
     -  Selectors
     -  How to modify height and width
     -  The cascade of CSS
