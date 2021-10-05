@@ -1,3 +1,21 @@
 # landing-page
+## General info
+    This is a landing page I made as part of The Odin Project's curriculum
 
-I applied what I know of HTML and CSS, my main focus was to practise flexbox as I find it really helpful.
+## What I used
+  *  HTML
+  *  CSS (mostly Flexbox)
+
+## What I learned
+  * HTML
+    -  Elements and tags
+    -  Paragraphs
+    -  Headings
+    -  Lists
+    -  How to add images and links
+  *  CSS
+    -  Selectors
+    -  How to modify height and width
+    -  The cascade of CSS
+    -  The box model
+    -  Flexbox
