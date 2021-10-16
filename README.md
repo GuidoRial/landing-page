@@ -2,6 +2,9 @@
 ## General info
     This is a landing page I made as part of The Odin Project's curriculum
 
+## Live Preview
+https://guidorial.github.io/landing-page/
+
 ## What I used
   *  HTML
   *  CSS 
